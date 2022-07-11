@@ -1,2 +1,2 @@
 # spring-mybatis-CRUD
-school term-project using spring my batis.
+School term-project using spring my batis.
